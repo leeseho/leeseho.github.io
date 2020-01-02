@@ -7,7 +7,7 @@ background: '/img/posts/06.jpg'
 ---
 
 # 간단한 Markdown 문법 정리
-``` html
+``` HTML
 # : 제목
 ## : 제목 2
 
@@ -37,7 +37,12 @@ background: '/img/posts/06.jpg'
 space*2 또는 <br> : 줄바꿈
 
 
+![이미지 이름](이미지 URL) : 이미지 넣기
+
 <img width="150" src="http://www.gstatic.com/webp/gallery/4.jpg" alt="Prunus" title="A Wild Cherry (Prunus avium) in flower"> : 이미지 사이즈 조절
+
+
+
 
 ```
 
