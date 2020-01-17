@@ -7,13 +7,10 @@ date: 2020-1-16 09:30:00 -0900
 background: '/img/posts/06.jpg'
 ---
 
-# 문서 목차
+# 목차
  - Amazon Rekognition ?
  - Amazon Rekognition 작동방식 (4p)
- - Amazon Rekognition 시작하기(10p)
- - 이미지 작업(23p)
- - 저장된 비디오 작업(49p)
- - 스트리밍 비디오 작업(77p)
+ - AWS CLI 설치
 
 # Amazon Rekognition ?
  Amazon Rekognition은 이미지와 비디오 분석을 위한 클라우드 서비스이다. API에 이미지나 비디오를 제공하면, 객체(사람, 장면, 활동 등)를 파악할 수 있다.
@@ -42,7 +39,7 @@ background: '/img/posts/06.jpg'
   ### Video 작업
     Amazon S3에 저장된 비디오 또는 Amazon Kinesis Video Streams를 통해 스트리밍된 비디오를 분석할 수 있다.
 
-## AWS CLI 설치
+# AWS CLI 설치
 [Installing AWS CLI version 1](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv1.html)
 
 
