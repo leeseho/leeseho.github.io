@@ -32,6 +32,10 @@ background: '/img/posts/06.jpg'
 ![Andorid things 설치 과정-2](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-01-29-15-23-01.png?raw=true)
 
 
+## MQTT를 이용한 통신하기
+
+
+
 
 
 [구글 코드랩 참고](https://codelabs.developers.google.com/codelabs/androidthings-classifier/index.html?index=..%2F..index#0)
