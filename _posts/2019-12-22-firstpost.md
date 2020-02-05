@@ -41,7 +41,12 @@ space*2 또는 <br> : 줄바꿈
 
 <img width="150" src="http://www.gstatic.com/webp/gallery/4.jpg" alt="Prunus" title="A Wild Cherry (Prunus avium) in flower"> : 이미지 사이즈 조절
 
-
+표 만들기 :
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 
 
 ```
