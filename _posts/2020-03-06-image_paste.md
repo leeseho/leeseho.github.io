@@ -42,18 +42,17 @@ github blog에서 사용하기위해
 
 ## 설정 방법
  나는 내 깃허브 블로그 레포지토리(`https://github.com/leeseho/leeseho.github.io`)의 `_posts/images`경로에 문서에 사용되는 이미지파일이 저장되어있다.  
-![Path](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/images/2020-03-06-11-41-25.png?raw=true)  
- 그러므로 경로를 위와같이 설정했다. `${currentFileDir}`은 `현재 문서 파일(.md)의 경로`이다.
+![Path](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-06-11-41-25.png?raw=true)  
+ 그러므로 경로를 위와같이 설정했다. 참고로 `${currentFileDir}`은 `현재 문서 파일(.md)의 경로`이다. 이 경로는 이미지 파일이 저장되는 경로이기도 하다.
 
 
-![Prefix](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/images/2020-03-06-11-41-44.png?raw=true)  
+![Prefix](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-07-23-10-36.png?raw=true)
  그리고 이미지 파일이름 앞에 붙어야할 `레포지토리주소 + /blob/master/ + 경로` 형식을 넣어주었다.
 
 
-![Suffix](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/images/2020-03-06-11-41-56.png?raw=true)  
+![Suffix](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-06-11-41-56.png?raw=true)  
 마지막으로 파일 뒤에 `?raw=true`를 입력해 준다.
 
 
 ## 그 외
   원하면 파일이름과 저장 위치, prefix, suffix 등을 수정할 수 있고, Insert Pattern도 수정할 수 있다.  
-  

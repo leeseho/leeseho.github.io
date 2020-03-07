@@ -14,20 +14,20 @@ background: '/img/posts/05.jpg'
  찾아보니 내 노트북은 다른 노트북들에 비하면 나름 온도가 괜찮은 편인것같다. 그러나 CPU 부하가 높은 작업에서는 쓰로틀링이 너무 쉽게 걸리는 것이 불편해서, 한번 시도해보기로 했다.  
 
   ## 방열작업 전
-![방열작업전 온도](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/images/2020-03-07-10-16-59.png?raw=true)  
+![방열작업전 온도](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-07-10-16-59.png?raw=true)  
 
-![Stress test](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/images/2020-03-07-11-16-45.png?raw=true)  
+![Stress test](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-07-11-16-45.png?raw=true)  
  스트레스 테스트 몇 초만 90도를 넘는다..  
 
  
  ## 방열작업 후
-  ![방열작업 직후](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/images/2020-03-07-16-35-24.png?raw=true)  
+  ![방열작업 직후](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-07-16-35-24.png?raw=true)  
   부팅직후 최저 온도가 28도까지 내려간다..! (방열작업전 부팅직후 40~50도)  
 
 
-![방열 후 고부하 작업](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/images/2020-03-07-16-43-44.png?raw=true)
+![방열 후 고부하 작업](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-07-16-43-44.png?raw=true)
     
-![XTU Stress test](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/images/2020-03-07-16-50-03.png?raw=true)  
+![XTU Stress test](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-07-16-50-03.png?raw=true)  
  2.8GHz 100% 로드시에도 최고온도는 80밖에 되지 않는다. 
  테스트 결과 3.1GHz에서도 80도 전후를 유지한다.
 
