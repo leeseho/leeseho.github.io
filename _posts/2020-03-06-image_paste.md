@@ -24,7 +24,7 @@ background: '/img/posts/05.jpg'
  VSCode에서 Paste Image Extension의 톱니바퀴모양을 클릭하면 설정창이 나온다.
 
 
-기본 붙여넣기 형식은 ` ![](이미지이름)`이지만,  
+기본 붙여넣기 형식은 `![](이미지 이름)`이지만,  
 github blog에서 사용하기위해  
 ` ![이름]](레포지토리 주소/blob/master/이미지경로/이미지이름?raw=true)`  
 과 같은 형식으로 입력되도록 설정해주어야 한다. 
