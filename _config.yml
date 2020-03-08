@@ -2,7 +2,7 @@
 title: Untitled
 description: > # this means to ignore newlines until "baseurl:"
   IT, Development Blog
-baseurl: "leeseho.github.io" # the subpath of your site, e.g. /blog/
+baseurl: "https://leeseho.github.io" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site you most probably don't need to set it
 
 # Build settings
@@ -14,13 +14,13 @@ gems: [jekyll-paginate, jekyll-coffeescript]
 
 # comments
 disqus: # add disqus shortna
-me here
+#me here
 
 # author info
 # add your appropriate info here
 author: Lee Seho # your name
 bio:    # your bio
-email: 
+email: lgtwvs@gmail.com
 email_md5: # md5 hash of your email
 twitter_username:
 github_username: leeseho
