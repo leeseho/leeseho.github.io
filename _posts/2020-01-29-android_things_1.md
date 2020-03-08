@@ -2,8 +2,9 @@
 layout: post
 title: "Android Things 개발환경"
 subtitle: ""
-categories : [IoT]
-date: 2020-1-29 14:00:00 -0900
+categories : dev
+tag : iot
+date: 2020-1-29 14:00:00 +0900
 background: '/img/posts/06.jpg'
 ---
 

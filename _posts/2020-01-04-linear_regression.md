@@ -2,8 +2,9 @@
 layout: post
 title: "Linear Regression 이론 정리"
 subtitle: ""
-categories : [ML]
-date: 2020-1-4 23:00:00 -0900
+categories : dev
+tag : ml
+date: 2020-1-4 23:00:00 +0900
 background: '/img/posts/06.jpg'
 ---
 

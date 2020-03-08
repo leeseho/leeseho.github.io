@@ -2,8 +2,10 @@
 layout: post
 title: "Blog 시작"
 subtitle: ":)"
-date: 2019-12-22 00:59:00 -0900
+categories : etc
+date: 2019-12-22 00:59:00 +0900
 background: '/img/posts/06.jpg'
+
 ---
 
 # 간단한 Markdown 문법 정리

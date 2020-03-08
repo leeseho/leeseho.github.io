@@ -2,7 +2,8 @@
 layout: post
 title: "노트북 발열 해결 - 방열 작업.."
 subtitle: "서멀패드+서멀컴파운드"
-date: 2020-03-07 10:00:00 -0900
+tags : etc
+date: 2020-03-07 10:00:00 +0900
 background: '/img/posts/05.jpg'
 ---
 

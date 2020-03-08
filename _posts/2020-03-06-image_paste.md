@@ -2,7 +2,8 @@
 layout: post
 title: "Visual Studio Code 마크다운 이미지 확장 프로그램"
 subtitle: ""
-date: 2020-03-06 11:00:00 -0900
+categories : etc
+date: 2020-03-06 11:00:00 +0900
 background: '/img/posts/05.jpg'
 ---
 

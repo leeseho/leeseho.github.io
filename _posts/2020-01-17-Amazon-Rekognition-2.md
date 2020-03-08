@@ -2,8 +2,9 @@
 layout: post
 title: "AWS - Amazon Rekognition 사용법"
 subtitle: "Detect Label 예제"
-categories : [Cloud]
-date: 2020-1-17 11:00:00 -0900
+categories : dev
+tag : ml
+date: 2020-1-17 11:00:00 +0900
 background: '/img/posts/06.jpg'
 ---
 

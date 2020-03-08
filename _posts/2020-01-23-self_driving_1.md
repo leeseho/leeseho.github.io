@@ -2,8 +2,9 @@
 layout: post
 title: "초음파 센서"
 subtitle: "거리 계산 공식"
-categories : [IoT]
-date: 2020-1-23 18:00:00 -0900
+categories : dev
+tag : iot
+date: 2020-1-23 18:00:00 +0900
 background: '/img/posts/06.jpg'
 ---
 

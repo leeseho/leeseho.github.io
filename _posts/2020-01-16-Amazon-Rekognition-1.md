@@ -2,7 +2,7 @@
 layout: post
 title: "AWS - Amazon Rekognition 사용법 정리.."
 subtitle: "설치부터 Configuration 까지"
-categories : Cloud
+categories : [Cloud]
 date: 2020-1-16 09:30:00 -0900
 background: '/img/posts/06.jpg'
 ---
