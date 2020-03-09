@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Untitled
+title:               Hello universe!
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -18,7 +18,7 @@ tagline:             "IT, Development etc."
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  What should I do?
+  ing...
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:

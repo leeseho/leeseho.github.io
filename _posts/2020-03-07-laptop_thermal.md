@@ -2,9 +2,8 @@
 layout: post
 title: "노트북 발열 해결 - 방열 작업.."
 subtitle: "서멀패드+서멀컴파운드"
-tags : etc
-date: 2020-03-07 10:00:00 +0900
-background: '/img/posts/05.jpg'
+tags : etc samsung laptop
+comments : true
 ---
 
 
@@ -14,7 +13,7 @@ background: '/img/posts/05.jpg'
 
  찾아보니 내 노트북은 다른 노트북들에 비하면 나름 온도가 괜찮은 편인것같다. 그러나 CPU 부하가 높은 작업에서는 쓰로틀링이 너무 쉽게 걸리는 것이 불편해서, 한번 시도해보기로 했다.  
 
-  # 방열작업 전
+# 방열작업 전
 
 ![방열작업전 온도](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-07-10-16-59.png?raw=true)  
 
@@ -22,7 +21,7 @@ background: '/img/posts/05.jpg'
  스트레스 테스트 몇 초만 90도를 넘는다..  
 
  
- # 방열작업 후
+# 방열작업 후
 
   ![방열작업 직후](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-07-16-35-24.png?raw=true)  
   부팅직후 최저 온도가 28도까지 내려간다..! (방열작업전 부팅직후 40~50도)  
@@ -36,7 +35,7 @@ background: '/img/posts/05.jpg'
 
 
 
- # 후기  
+# 후기  
 
  결과는 매우 성공적이다. 한편으로는, 삼성에서 알루미늄 바디를 가지고 있는 제품임에도 방열을 이렇게까지 하지않은 이유도 알것같다.  
 CPU 온도가 떨어지는대신 후면 판이 엄청 뜨거워진다. 풀로드시에는 거의 손이 데일 것 같이 뜨거워진다. 특히, 노트북 펜S 제품은 360도 뒤집어 필기가 가능한 제품인데,  
