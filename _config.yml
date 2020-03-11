@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Hello universe!
+title:               Hello Universe!
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -48,7 +48,7 @@ google_analytics:    UA-155125347-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus: True
-disqus_shortname:    dqsh #theorydb
+disqus_shortname:    'klsh'
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2020. by Sh'
