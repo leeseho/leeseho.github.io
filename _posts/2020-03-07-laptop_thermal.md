@@ -13,7 +13,7 @@ comments : true
 
  찾아보니 내 노트북은 다른 노트북들에 비하면 나름 온도가 괜찮은 편인것같다. 그러나 CPU 부하가 높은 작업에서는 쓰로틀링이 너무 쉽게 걸리는 것이 불편해서, 한번 시도해보기로 했다.  
 
-# 방열작업 전
+## Before
 
 ![방열작업전 온도](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-07-10-16-59.png?raw=true)  
 
@@ -21,7 +21,24 @@ comments : true
  스트레스 테스트 몇 초만 90도를 넘는다..  
 
  
-# 방열작업 후
+## 과정 
+ ![뒷판분리](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-14-19-29-06.png?raw=true)  
+ 
+ ![기존 써멀](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-14-19-30-49.png?raw=true)  
+ 
+
+ ![칩셋](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-14-19-29-44.png?raw=true)  
+ 
+
+ ![재도포](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-14-19-30-12.png?raw=true)  
+
+
+![최종](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-14-19-31-29.png?raw=true)
+ 
+ 처음엔 쿨링팬쪽에만 했었는데, 결과적으론 모두 위 사진처럼 모두 붙이는게 하는게 더 좋았다.
+ 
+
+## 결과
 
   ![방열작업 직후](https://github.com/leeseho/leeseho.github.io/blob/master/_posts/images/2020-03-07-16-35-24.png?raw=true)  
   부팅직후 최저 온도가 28도까지 내려간다..! (방열작업전 부팅직후 40~50도)  
