@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Dev
+title: CS/ CE
 slug: dev
 menu: true
 submenu: true
